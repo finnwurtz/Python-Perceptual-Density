@@ -1,2 +1,2 @@
 # Python-Perceptual-Density
-Repository containing notebook and data used to power Perceptual Density project
+This program allows users to apply the [perceptual density](https://finnwurtz.github.io/perceptual.html) framework to cities in the United States.
